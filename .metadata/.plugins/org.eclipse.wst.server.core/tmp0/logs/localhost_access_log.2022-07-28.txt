@@ -1,0 +1,8 @@
+127.0.0.1 - - [28/Jul/2022:00:02:37 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:00:02:38 +0530] "GET /DemoServlet1/SignUP.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:00:03:00 +0530] "GET /DemoServlet1/SignUP.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:00:03:06 +0530] "POST /DemoServlet1/SignUPDBServlet HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:00:04:14 +0530] "GET /DemoServlet1/SignUP.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:00:04:25 +0530] "POST /DemoServlet1/SignUPDBServlet HTTP/1.1" 200 10
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:00:06:38 +0530] "GET /DemoServlet1/SignUP.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:00:06:48 +0530] "POST /DemoServlet1/SignUPDBServlet HTTP/1.1" 200 48
